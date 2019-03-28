@@ -1,1 +1,1 @@
-# SpringPractice
+# SpringBoot + H2 + JPA Test
