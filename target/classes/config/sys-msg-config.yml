@@ -1,0 +1,64 @@
+app:
+  msg-map: 
+    DB_0001: Data inserted successfully.
+    DB_0002: Failed to insert data. 
+    DB_0003: Data updated successfully.
+    DB_0004: Failed to update data.
+    DB_0005: Data deleted successfully.
+    DB_0006: Failed to delete data.
+    DB_0007: Data searched successfully.
+    DB_0008: Failed to search data.
+    DB_0009: Data not found.
+    DB_0010: SQL executed successfully.
+    DB_0011: Failed to execute SQL.
+    DB_0012: Procedure executed successfully.
+    DB_0013: Failed to execute Procedure.
+    DB_0014: Failed to connect to database.
+    FILE_0001: File wrote successfully.
+    FILE_0002: Failed to write file.
+    FILE_0003: File read successfully.
+    FILE_0004: Failed to read file.
+    FILE_0005: File updated successfully.
+    FILE_0006: Failed to update file.
+    FILE_0007: File deleted successfully.
+    FILE_0008: Failed to delete file.
+    FILE_0009: File not found.
+    FILE_0010: File Access Denied.
+    FILE_0011: File format not correct.
+    FILE_0012: Invalid file name.
+    FILE_0013: File compressed successfully.
+    FILE_0014: Failed to compress file.
+    FILE_0015: File decompressed successfully.
+    FILE_0016: Failed to decompress file.
+    FILE_0017: Folder created successfully.
+    FILE_0018: Failed to create folder.
+    FILE_0019: Folder deleted successfully.
+    FILE_0020: Failed to delete folder.
+    FILE_0021: Folder not found.
+    FILE_0022: Folder Access Denied.
+    FILE_0023: Error occurred while closing stream.
+    HTTP_0200: Standard response for successful HTTP requests.
+    HTTP_0400: The server cannot or will not process the request due to an apparent client error.
+    HTTP_0403: The request was valid, but the server is refusing action.
+    HTTP_0404: The requested resource could not be found but may be available in the future.
+    HTTP_0500: A generic error message, given when an unexpected condition was encountered and no more specific message is suitable.
+    VAL_0001: Variable validated successfully.
+    VAL_0002: Variable is null.
+    VAL_0003: Variable is empty string.
+    VAL_0004: List size is zero.
+    VAL_0005: Array length is zero.
+    VAL_0006: Map is empty.
+    VAL_0007: Variable type mismatch.
+    VAL_0008: The variable value is not correct.
+    SP_0001: User login successfully.
+    SP_0002: User not found.
+    SP_0003: Password is invalid.
+    SP_0004: Password retry count exceeded.
+    SP_0005: User has been suspended.
+    SP_0006: Unauthorised user access.
+    SP_0007: Failed to connect to verification server.
+    SP_0008: Token mismatch.
+    SP_0009: The access token provided has expired.
+    SP_0010: Unknown login error.
+    ERR_0001: Unknown error.
+    ERR_0002: Reflection error.
